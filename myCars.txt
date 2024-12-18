@@ -1,1 +1,1 @@
-[{'brand': 'guy', 'model': 'zaken', 'color': 'black'}, {'brand': 'tomer', 'model': 'knoler', 'color': 'white'}]
+[{'brand': 'mazda', 'model': '2022', 'color': 'black'}, {'brand': 'fiat', 'model': '2021', 'color': 'yellow'}, {'brand': 'alfa romeo', 'model': '2014', 'color': 'red'}, {'brand': 'audi', 'model': '2024', 'color': 'pearl'}, {'brand': 'bmw', 'model': '2000', 'color': 'blue'}]
